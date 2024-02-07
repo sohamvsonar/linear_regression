@@ -1,6 +1,6 @@
 # Simple Linear Regression Model
 
-This repository contains Python code to perform simple linear regression for predicting salaries based on years of experience. The dataset used in this project (`salary_data.csv`) contains two columns: "YearsExperience" and "Salary".
+This repository contains Python code to perform simple linear regression for predicting salaries based on years of experience.
 
 ## Usage
 
